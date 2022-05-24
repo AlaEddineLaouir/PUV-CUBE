@@ -1,0 +1,5 @@
+C:\Users\laoui\Documents\COdePSD\PUV-CUBE\PUV-Cube\obj\Debug\netcoreapp3.1\PUV-Cube.csproj.AssemblyReference.cache
+C:\Users\laoui\Documents\COdePSD\PUV-CUBE\PUV-Cube\obj\Debug\netcoreapp3.1\PUV-Cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laoui\Documents\COdePSD\PUV-CUBE\PUV-Cube\obj\Debug\netcoreapp3.1\PUV-Cube.AssemblyInfoInputs.cache
+C:\Users\laoui\Documents\COdePSD\PUV-CUBE\PUV-Cube\obj\Debug\netcoreapp3.1\PUV-Cube.AssemblyInfo.cs
+C:\Users\laoui\Documents\COdePSD\PUV-CUBE\PUV-Cube\obj\Debug\netcoreapp3.1\PUV-Cube.csproj.CoreCompileInputs.cache
